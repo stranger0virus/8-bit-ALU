@@ -42,7 +42,8 @@ Verified proper connectivity of VDD and VSS across the core and I/O regions.
 <img width="650" height="381" alt="image" src="https://github.com/user-attachments/assets/ba4c6946-cec5-4400-837e-fe64ed89fe6b" />
 
 (a)
-                                                                                     <img width="654" height="381" alt="image" src="https://github.com/user-attachments/assets/6dab2f14-e5a8-424e-8e40-fa272b49a701" />
+
+<img width="654" height="381" alt="image" src="https://github.com/user-attachments/assets/6dab2f14-e5a8-424e-8e40-fa272b49a701" />
         
 (b)
 
