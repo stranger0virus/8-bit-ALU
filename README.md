@@ -118,4 +118,3 @@ Fig 14: Final Physical Design with seal ring, dummy cell and serial number.
 Performed:
 o	DRC (Design Rule Check)
 o	ARC (Antenna Rule Check)
-Fig 16: Final DRC checks pass
